@@ -1,0 +1,4 @@
+# Dia 3
+
+No dia três, foi nos apresentado o GitHub, uma plataforma usada para salvar os codigos remotamente e trabalhar de maneira colaborativa.
+O exercício deste dia foi trazer as informações do repositório criado no dia anterior para o GitHub, e acrescentar mais informações dentro dele.

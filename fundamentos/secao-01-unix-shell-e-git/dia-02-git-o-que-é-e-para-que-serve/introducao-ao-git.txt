@@ -1,0 +1,5 @@
+# Dia 02
+
+No segundo dia aprendemos o que é git, como ele funciona como instalar e configurar.
+Neste dia fomos capazes de criar um repositório local e controlar as alterações dos arquivos.
+Nosso exercício do dia foi configurar este repósitorio local no qual você está lendo através do VScode.

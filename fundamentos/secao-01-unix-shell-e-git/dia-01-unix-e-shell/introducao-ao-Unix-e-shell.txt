@@ -1,4 +1,5 @@
 # Dia 01
 
 No primeiro dia começamos conhecendo o Unix, quais são seus principais componentes, suas variações, qual a estrutura de diretórios, o que é Shell e quais os principais comandos do Shell.
+Aprendemos a manipular arquivos e diretórios e fixamos os comandos mais utilizados pelo terminal.
 Desde então fomos informados sobre praticar muito os comandos do terminal para interagir de forma eficiente com o sistema.
