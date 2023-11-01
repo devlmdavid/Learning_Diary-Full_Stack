@@ -18,8 +18,13 @@ for (let index = 0; index < numbers.length; index += 1) {
 //     };
 // };
 // console.log(soma);
+let impar = [];
 if (numbers[index] % 2 !== 0) {
-    let impar =
+    impar.push(numbers[index]);
+};
+if (numbers[index] % 2 === 0) {
+    console.log('o elemento é par')
+} else {
+    console.log(impar);
 }
-console.log(`${numbers} é impar`)
 };
