@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main id="parent-of-parent">
+        <section id="parent">
+          <section id="first-child"></section>
+          <section id="where-are-you">
+            <section id="first-child-of-child"></section>
+          </section>
+          Attention!
+          <section id="third-child"></section>
+          <section id="fourth-and-last-child"></section>
+        </section>
+      </main>
+      <script>
+        // Acesse o elemento where-are-you
+        const whereAreYou = document.getElementById('where-are-you');
+        const parente = whereAreYou.parentElement;
+        // Acesse parent a partir de where-are-you e adicione uma color a ele.
+        parente.style.backgroundColor = 'purple';
+        // Acesse o first-child-of-child e adicione um texto a ele.
+        const neto = document.getElementById('first-child-of-child'); 
+        neto.innerText = 'Hello World!'
+        // Acesse o first-child a partir de parent.
+        const parent = document.getElementById('parent');
+        const firstchild = parent.firstElementChild;
+        // Acesse o first-child a partir de where-are-you.
+        const whereFirst = whereAreYou.
+        previousElementSibling;
+        // Acesse o texto Attention! a partir de where-are-you.
+        const atencao = whereAreYou.nextSibling;
+        // Acesse o third-child a partir de where-are-you.
+        const thirdchild = whereAreYou.nextElementSibling;
+        // Acesse o third-child a partir de parent.
+        const thirtchild = parent.lastElementChild.previousElementSibling;
+        thirtchild.innerText = 'aslkfksaf';
+      </script>
+</body>
+</html>
