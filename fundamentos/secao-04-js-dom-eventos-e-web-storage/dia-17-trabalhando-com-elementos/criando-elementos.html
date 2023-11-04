@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main id="paiDoPai">
+        <section id="pai">
+          <section id="primeiroFilho"></section>
+          <section id="elementoOndeVoceEsta">
+            <section id="primeiroFilhoDoFilho"></section>
+            <section id="segundoEUltimoFilhoDoFilho"></section>
+          </section>
+          Atenção!
+          <section id="terceiroFilho"></section>
+          <section id="quartoEUltimoFilho"></section>
+        </section>
+      </main>
+      <script>
+        // Crie um irmão para elementoOndeVoceEsta.
+        const papai = document.getElementById('pai');
+        const irmaoElement = document.createElement('section');
+        irmaoElement.id = 'irmaoElement';
+        papai.appendChild(irmaoElement);
+        // Crie um filho para elementoOndeVoceEsta.
+        const elementhere = document.getElementById('elementoOndeVoceEsta');
+        const filhoElement = document.createElement('div');
+        filhoElement.id = 'filhoElement';
+        elementhere.appendChild(filhoElement);
+        // Crie um filho para primeiroFilhoDoFilho.
+        const firtfilhodofilho = document.getElementById('primeiroFilhoDoFilho');
+        const filhoDoFilho = document.createElement('div');
+        filhoDoFilho.id = 'filhoDoFilho';
+        firtfilhodofilho.appendChild(filhoDoFilho);
+        // A partir desse filho criado, acesse terceiroFilho.
+        const thirdFilho = firtfilhodofilho.parentElement.nextElementSibling;
+        thirdFilho.innerHTML = '<strong>olaaa<strong>';
+      </script>
+</body>
+</html>
