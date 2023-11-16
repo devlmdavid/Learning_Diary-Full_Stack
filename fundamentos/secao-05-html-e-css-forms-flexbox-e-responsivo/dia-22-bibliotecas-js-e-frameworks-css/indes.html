@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Form</title>
+  <link rel="stylesheet" href="./style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+</head>
+<body>
+    <div>
+     <h1 class="h1" id="title">Formulário Trybe Travel</h1>
+        <form id="main-form" method="get">
+            </div>
+                    <fieldset>
+                        <div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" minlength="10" maxlength="40" id="fullName" type="text" required>
+                                <label for="fullName">Nome Completo:</label>
+                            </div>   
+                            <div class="form-floating mb-3">
+                                <input class="form-control" minlength="10" maxlength="50" id="email" type="text" required>
+                                <label for="email">E-mail:</label>
+                            </div>
+                        </div>
+                        <div class="adjust">
+                            <div class="form-check">
+                                <label class="form-check-label" for="destinations1">Destino Preferido:</label>
+                            </div>
+                            <div class="form-check">
+                                <input checked class="form-check-input radios" required id="destinations1" type="radio" name="destinations">
+                                <label class="form-check-label" for="destinations1">Cidade</label>
+                            </div>
+                            <div class="form-check">        
+                                <input class="radios form-check-input" required id="destinations2" type="radio" name="destinations">
+                                    <label class="form-check-label" for="destinations2">Campo</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="radios form-check-input" required id="destinations3" type="radio" name="destinations">
+                                    <label class="form-check-label" for="destinations3">Praia</label>
+                            </div>
+                            <div class="form-check">    
+                                <input class="radios form-check-input" required id="destinations4" type="radio" name="destinations">
+                                    <label class="form-check-label" for="destinations4">Montanha</label>
+                            </div>
+                        </div>
+                        <div class="form-floating">
+                            <textarea class="form-control" id="question" maxlength="500"></textarea>
+                            <br>
+                            <label for="question">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?
+                            </label>
+                        </div>
+                        <br>
+                        <label class="form-label" for="date">Qual a melhor data para realizar sua viagem?
+                            <input class="form-control" type="date" id="date">
+                        </label>
+                        <br>
+                        <br>
+                            <label class="form-check-label" for="promo">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+                                <input class="form-check-input" type="checkbox" id="promo">
+                            </label>
+                        <br>
+                        <br>
+                            <label class="form-check-label" for="agreement">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros
+                                <input class="form-check-input" type="checkbox" id="agreement" required>
+                            </label>
+                        <br>
+                        <br>
+                        <button class="btn btn-primary" disabled type="submit" id="submit-btn">Enviar</button>
+                        <button type="reset" class="btn btn-primary" id="clear-btn">Limpar</button>
+                    </fieldset>
+        </form>
+    </div>
+    <script>const validate = new window.JustValidate('#form');</script>
+    <script src="./script.js"></script>
+</body>
+</html>
