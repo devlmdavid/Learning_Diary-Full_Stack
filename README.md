@@ -90,28 +90,28 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 </details>
 
 <br>
-
+<hr>
 <details>
 <summary>Front-end🚀</summary>
 
 </details>
 
 <br>
-
+<hr>
 <details>
 <summary>Back-end</summary>
 
 </details>
 
 <br>
-
+<hr>
 <details>
 <summary>Ciência da Computação</summary>
 
 </details>
 
 <br>
-
+<hr>
 <details>
 <summary>Projetos</summary>
 
