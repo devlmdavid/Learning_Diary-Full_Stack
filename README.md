@@ -1,11 +1,15 @@
 # Repositório de exercícios Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[David L M Augusto](www.linkedin.com/in/david-lm-augusto)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[David L M Augusto](www.linkedin.com/in/david-lm-augusto)_ enquanto estudante na [Trybe](https://www.betrybe.com/) 🚀
 
- Este é o meu portfólio de exercícios, onde mantenho uma coleção dos projetos e trabalhos que desenvolvi ao longo do tempo. Abaixo está um guia rápido para navegar por esses exercícios:
+⚠️**Observação:** Este repositório está em construção e aprimoramentos constantes!!
+<br>
+_Ultima atualização 08/01/24_
+
+ Este é o meu portfólio de exercícios, no qual mantenho uma coleção dos projetos e trabalhos que desenvolvi ao longo do tempo. Abaixo está um guia rápido para navegar por esses exercícios:
 
  Módulos:
-
+<hr>
 <details>
 <summary>Fundamentos ✅</summary>
 <br>
@@ -92,27 +96,44 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 <br>
 <hr>
 <details>
-<summary>Front-end🚀</summary>
+<summary>Front-end 💬</summary>
 
 </details>
 
 <br>
 <hr>
 <details>
-<summary>Back-end</summary>
+<summary>Back-end ☑️</summary>
 
 </details>
 
 <br>
 <hr>
 <details>
-<summary>Ciência da Computação</summary>
+<summary>Ciência da Computação ☑️</summary>
 
 </details>
 
 <br>
 <hr>
 <details>
-<summary>Projetos</summary>
+<summary>Projetos 🚀</summary>
+
+<br>
+
+- _[Lessons Learned](fundamentos/2.0%20Introdução%20a%20HTML%20e%20CSS/2.5%20Projeto%20-%20Lessons%20Learned)_ - Criação de uma página do zero utilizando HTML e CSS.
+- _[Supermercado Pirilampo](fundamentos/3.0%20Introdução%20a%20JavaScript/3.6%20Projeto%20-%20Supermercado%20Pirilampo)_ - Aplicando lógica de programação utilizando JavaScript.
+- _[Pixels Art](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.5%20Projeto%20-%20Pixels%20Art)_ - Colocando em prática tudo o que aprendi utilizando a manipulação do DOM.
+- _[Trybewarts](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.6%20Projeto%20-%20TrybeWarts)_ - Implementando um formulário utilizando bibliotécas e CSS flexbox.
+- _[JavaScript Testes Unitários](fundamentos/6.0%20Introdução%20à%20JavaScript%20ES6%20e%20Testes%20Unitários/6.4%20Projeto%20-%20JavaScript%20Testes%20Unitários)_ - Testando uma aplicação utilizando a bibliotéca _Jest_.
+- _[Zoo Functions](fundamentos/7.0%20Métodos%20de%20Array/7.6%20Projeto%20-%20Zoo%20Functions)_ - Utilização de Hofs, as funcionalidades do ES6 e TDD _Test Driven Development_.
+
+**Projetos Bônus**
+
+- _[Lista de Tarefas](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
+- _[Meme Generator](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
+- _[Adivinhe a cor](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
+- _[Carta Misteriosa](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
+- _[]()_
 
 </details>
