@@ -3,7 +3,7 @@
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[David L M Augusto](www.linkedin.com/in/david-lm-augusto)_ enquanto estudante na [Trybe](https://www.betrybe.com/) 🚀
 
 ⚠️**Observação:** Este repositório está em construção e aprimoramentos constantes!!
-<br>
+
 _Ultima atualização 08/01/24_
 
  Este é o meu portfólio de exercícios, no qual mantenho uma coleção dos projetos e trabalhos que desenvolvi ao longo do tempo. Abaixo está um guia rápido para navegar por esses exercícios:
