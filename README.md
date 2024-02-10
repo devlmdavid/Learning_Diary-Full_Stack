@@ -97,7 +97,81 @@ _Ultima atualização 08/01/24_
 <hr>
 <details>
 <summary>Front-end 💬</summary>
+<br>
+<details>
+<summary>Section 1: Introduction to Frontend and Asynchronous JavaScript</summary>
 
+-[✅] 1.1: _[Development environment]()_
+-[✅] 1.2: _[Asynchronous JavaScript - Promises and fetch]()_
+-[✅] 1.3: _[Review - Exchange House]()_
+-[✅] 1.4: _[Async, Await and asynchronous tests]()_
+-[✅] 1.5: _[Project - iChoveu]()_
+</details>
+<br>
+<details>
+<summary>Section 2: Introduction to React</summary>
+
+-[✅] 1.1: _[Introduction to React and Typescript]()_
+-[✅] 1.2: _[React Components and Props]()_
+-[✅] 1.3: _[Advancing Components]()_
+-[✅] 1.4: _[Review - Solar System]()_
+-[✅] 1.5: _[States and Events]()_
+-[✅] 1.5: _[Forms]()_
+-[✅] 1.5: _[Project - Password Manager]()_
+</details>
+<br>
+<details>
+<summary>Section 3: Delving into React</summary>
+
+-[✅] 1.1: _[React Router]()_
+-[✅] 1.2: _[useEffect]()_
+-[✅] 1.3: _[Review - Aprofunding to React]()_
+-[✅] 1.4: _[Project - Trybetunes]()_
+</details>
+<br>
+<details>
+<summary>Section 4 - Automated Tests with React Testing Library</summary>
+
+-[] 1.1: _[Introduction to React Testing Library]()_
+-[] 1.2: _[RTL: Mocks]()_
+-[] 1.3: _[RTL: Testing With React Router]()_
+-[] 1.4: _[Project - Tests in React]()_
+</details>
+<br>
+<details>
+<summary>Section 5: Styling and Agile Methodology</summary>
+
+-[] 1.1: _[Agile Methodologies]()_
+-[] 1.2: _[CSS Modules]()_
+-[] 1.3: _[Styled Components]()_
+-[] 1.4: _[Project - Frontend Online Store]()_
+</details>
+<br>
+<details>
+<summary>Section 6: State Management with Redux</summary>
+
+-[] 1.1: _[Introduction to Redux - The global state of the application]()_
+-[] 1.2: _[Using Redux in React]()_
+-[] 1.3: _[Review - Using Redux in React]()_
+-[] 1.4: _[Using Redux in React - Asynchronous Actions]()_
+-[] 1.5: _[Tests in React-Redux]()_
+-[] 1.5: _[Projeto - TrybeWallet]()_
+</details>
+<br>
+<details>
+<summary>Section 7 - Class Components, Context API and Custom Hooks</summary>
+
+-[] 1.1: _[Class Components]()_
+-[] 1.2: _[Context API]()_
+-[] 1.3: _[Custom Hooks]()_
+-[] 1.4: _[Project - StarWars]()_
+</details>
+<br>
+<details>
+<summary>Section 8: Project - Recipe App</summary>
+
+-[] 1.1: _[Project - Recipe App]()_
+</details>
 </details>
 
 <br>
