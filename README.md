@@ -2,7 +2,7 @@
 
 This repository contains all learning activities developed by _[David L M Augusto](www.linkedin.com/in/david-lm-augusto)_ while student at [Trybe](https://www.betrybe.com/) 🚀
 
-⚠️**Note:** This repository is under construction and constant improvements!! The links are not working yet, I will make them available as I manage to implement content in them.
+⚠️**Note:** This repository is under construction and constantly improving!! The links are not working yet, I will make them available as I manage to implement content in them.
 
 _Last update 02/10/24_
 
@@ -70,7 +70,7 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 </details>
 <br>
 <details>
-<summary>Seçction 6: Introduction to JavaScript ES6 and Unit Testing</summary>
+<summary>Section 6: Introduction to JavaScript ES6 and Unit Testing</summary>
 
 - [✅] 6.1: _[exception flow]()_
 - [✅] 6.2: _[First steps in Jest]()_
