@@ -4,7 +4,7 @@ This repository contains all learning activities developed by _[David L M August
 
 ⚠️**Note:** This repository is under construction and constant improvements!! The links are not working yet, I will make them available as I manage to implement content in them.
 
-_Ultima atualização 02/10/24_
+_Last update 02/10/24_
 
 This is my exercise portfolio, in which I keep a collection of the classes, projects and work I have developed over time. Below is a quick guide to navigating these exercises:
 
@@ -195,25 +195,25 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 
 <br>
 
-- _[Lessons Learned]()_ - Criação de uma página do zero utilizando HTML e CSS.
-- _[Supermarket Pirilampo]()_ - Aplicando lógica de programação utilizando JavaScript.
-- _[Pixels Art]()_ - Colocando em prática tudo o que aprendi utilizando a manipulação do DOM.
-- _[Trybewarts]()_ - Implementando um formulário utilizando bibliotécas e CSS flexbox.
-- _[JavaScript Unitary tests]()_ - Testando uma aplicação utilizando a bibliotéca _Jest_.
-- _[Zoo Functions]()_ - Utilização de Hofs, as funcionalidades do ES6 e TDD _Test Driven Development_.
+- _[Lessons Learned]()_ - Creating a page from scratch using HTML and CSS.
+- _[Supermarket Pirilampo]()_ - Applying programming logic using JavaScript.
+- _[Pixels Art]()_ - Putting into practice everything I learned using DOM manipulation.
+- _[Trybewarts]()_ - Implementing a form using libraries and flexbox CSS.
+- _[JavaScript Unitary tests]()_ - Testing an application using the library _Jest_.
+- _[Zoo Functions]()_ - Use of Hofs, ES6 functionalities and TDD _Test Driven Development_.
 
 <hr>
-<summary>
 
-**Projetos Bônus** 🛸
-
+**Project bonuses** 🛸
+<details>
+<summary>Projects 🛸</summary>
 <details>
 <summary>Fundamentals ☑️</summary>
 
-- _[Lista de Tarefas]()_
+- _[Task List]()_
 - _[Meme Generator]()_
-- _[Adivinhe a cor]()_
-- _[Carta Misteriosa]()_
+- _[Guess the Color]()_
+- _[Mysterious Letter]()_
 </details>
 
 <br>
@@ -224,4 +224,4 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 </details>
 
 </details>
-</summary>
+</details>
