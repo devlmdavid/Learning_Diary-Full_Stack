@@ -1,4 +1,4 @@
-# Repositório de exercícios Trybe
+# Repository of Trybe exercises
 
 This repository contains all learning activities developed by _[David L M Augusto](www.linkedin.com/in/david-lm-augusto)_ while student at [Trybe](https://www.betrybe.com/) 🚀
 
@@ -16,20 +16,20 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 <details>
 <summary>Section 1: Unix, Shell & Git</summary>
 
-- [✅] 1-1: _[Unix & Shell](fundamentos/1.0%20%20Unix,%20Shell%20e%20Git/1.1%20Unix%20&%20Shell/introducao-ao-Unix-e-shell.txt)_
-- [✅] 1-2: _[Git - What is it and what is it for](fundamentos/1.0%20%20Unix,%20Shell%20e%20Git/1.2%20Git%20o%20que%20é%20e%20para%20que%20serve)_
-- [✅] 1-3: _[Understanding commands](fundamentos/1.0%20%20Unix,%20Shell%20e%20Git/1.3%20Git%20e%20GitHub%20-%20Entendendo%20comandos)_
+- [✅] 1-1: _[Unix & Shell]()_
+- [✅] 1-2: _[Git - What is it and what is it for]()_
+- [✅] 1-3: _[Understanding commands]()_
 
 </details>
 <br>
 <details>
 <summary>Section 2: HTML & CSS</summary>
 
-- [✅] 2.1: _[HTML & CSS - Page structure](fundamentos/2.0%20Introdução%20a%20HTML%20e%20CSS/2.1%20Estruturas%20de%20página)_
-- [✅] 2.2: _[HTML & CSS - First Steps in CSS](fundamentos/2.0%20Introdução%20a%20HTML%20e%20CSS/2.2%20Primeiros%20passos%20em%20CSS)_
-- [✅] 2.3: _[HTML & CSS - Selectors and positioning](fundamentos/2.0%20Introdução%20a%20HTML%20e%20CSS/2.3%20Seletores%20e%20posicionamento)_
-- [✅] 2.4: _[Semantic HTML](fundamentos/2.0%20Introdução%20a%20HTML%20e%20CSS/2.4%20HTML%20Semântico)_
-- [✅] 2.5: _[Project - Lessons Learned](fundamentos/2.0%20Introdução%20a%20HTML%20e%20CSS/2.5%20Projeto%20-%20Lessons%20Learned)_ 🚀
+- [✅] 2.1: _[HTML & CSS - Page structure]()_
+- [✅] 2.2: _[HTML & CSS - First Steps in CSS]()_
+- [✅] 2.3: _[HTML & CSS - Selectors and positioning]()_
+- [✅] 2.4: _[Semantic HTML]()_
+- [✅] 2.5: _[Project - Lessons Learned]()_ 🚀
 
 </details>
 <br>
@@ -37,57 +37,57 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 <summary>Section 3: Introduction to JavaScript</summary>
 
 - [✅] 3.1: _[First steps in JavaScript]()_
-- [✅] 3.2: _[Array and repeating structure](fundamentos/3.0%20Introdução%20a%20JavaScript/3.2%20Array%20e%20estrutura%20de%20repetição)_
-- [✅] 3.3: _[Functions](fundamentos/3.0%20Introdução%20a%20JavaScript/3.3%20Funções)_
-- [✅] 3.4: _[Objects](fundamentos/3.0%20Introdução%20a%20JavaScript/3.4%20Objetos)_
-- [✅] 3.5: _[JSON and Practice Day](fundamentos/3.0%20Introdução%20a%20JavaScript/3.5%20JSON%20e%20dia%20de%20prática)_
-- [✅] 3.6: _[Project - Supermarket Pirilampo](fundamentos/3.0%20Introdução%20a%20JavaScript/3.6%20Projeto%20-%20Supermercado%20Pirilampo)_ 🚀
+- [✅] 3.2: _[Array and repeating structure]()_
+- [✅] 3.3: _[Functions]()_
+- [✅] 3.4: _[Objects]()_
+- [✅] 3.5: _[JSON and Practice Day]()_
+- [✅] 3.6: _[Project - Supermarket Pirilampo]()_ 🚀
 
 </details>
 <br>
 <details>
 <summary>Section 4: JavaScript - DOM, Events and Web Storage</summary>
 
-- [✅] 4.1: _[JavaScript - DOM and Selectors](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.1%20DOM%20e%20seletores)_
-- [✅] 4.2: _[JavaScript - Working with elements](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.2%20Trabalhando%20com%20elementos)_
-- [✅] 4.3: _[JavaScript - Events](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.3%20Eventos)_
-- [✅] 4.4: _[JavaScript - Web Storage](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.4%20Web%20Storage)_
-- [✅] 4.5: _[Projeto - Pixels Art](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.5%20Projeto%20-%20Pixels%20Art)_ 🚀
-- [✅] 4.6: _[Bonus projects](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_ 🚀
+- [✅] 4.1: _[JavaScript - DOM and Selectors]()_
+- [✅] 4.2: _[JavaScript - Working with elements]()_
+- [✅] 4.3: _[JavaScript - Events]()_
+- [✅] 4.4: _[JavaScript - Web Storage]()_
+- [✅] 4.5: _[Projeto - Pixels Art]()_ 🚀
+- [✅] 4.6: _[Bonus projects]()_ 🚀
 
 </details>
 <br>
 <details>
 <summary>Section 5: HTML & CSS: Forms, Flexbox and Responsive</summary>
 
-- [✅] 5.1: _[Forms](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.1%20Forms)_
-- [✅] 5.2: _[Libraries JavaScript and Frameworks CSS](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.2%20Bibliotecas%20JavaScript%20e%20Framework%20CSS)_
-- [✅] 5.3: _[CSS Flexbox - Part 1](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.3%20CSS%20Flexbox%20%20parte%201)_
-- [✅] 5.4: _[CSS Flexbox - Part 2](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.4%20CSS%20Flexbox%20parte%202)_
-- [✅] 5.5: _[Responsivive](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.5%20Responsividade)_
-- [✅] 5.6: _[Project - TrybeWarts](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.6%20Projeto%20-%20TrybeWarts)_ 🚀
+- [✅] 5.1: _[Forms]()_
+- [✅] 5.2: _[Libraries JavaScript and Frameworks CSS]()_
+- [✅] 5.3: _[CSS Flexbox - Part 1]()_
+- [✅] 5.4: _[CSS Flexbox - Part 2]()_
+- [✅] 5.5: _[Responsivive]()_
+- [✅] 5.6: _[Project - TrybeWarts]()_ 🚀
 
 </details>
 <br>
 <details>
 <summary>Seçction 6: Introduction to JavaScript ES6 and Unit Testing</summary>
 
-- [✅] 6.1: _[exception flow](fundamentos/6.0%20Introdução%20à%20JavaScript%20ES6%20e%20Testes%20Unitários/6.1%20Fluxo%20de%20exceções)_
-- [✅] 6.2: _[First steps in Jest](fundamentos/6.0%20Introdução%20à%20JavaScript%20ES6%20e%20Testes%20Unitários/6.2%20Primeiros%20passos%20Jest)_
-- [✅] 6.3: _[Matchers and code coverage](fundamentos/6.0%20Introdução%20à%20JavaScript%20ES6%20e%20Testes%20Unitários/6.3%20Matchers%20e%20cobertura%20de%20código)_
-- [✅] 6.4: _[Project - JavaScript Unit Testing](fundamentos/6.0%20Introdução%20à%20JavaScript%20ES6%20e%20Testes%20Unitários/6.4%20Projeto%20-%20JavaScript%20Testes%20Unitários)_ 🚀
+- [✅] 6.1: _[exception flow]()_
+- [✅] 6.2: _[First steps in Jest]()_
+- [✅] 6.3: _[Matchers and code coverage]()_
+- [✅] 6.4: _[Project - JavaScript Unit Testing]()_ 🚀
 
 </details>
 <br>
 <details>
 <summary>Section 7: Array methods (HOF's)</summary>
 
-- [✅] 7.1: _[Map](fundamentos/7.0%20Métodos%20de%20Array/7.1%20Map)_
-- [✅] 7.2: _[Filter e sort](fundamentos/7.0%20Métodos%20de%20Array/7.2%20Filter%20e%20Sort)_
-- [✅] 7.3: _[Find e forEach](fundamentos/7.0%20Métodos%20de%20Array/7.3%20Find%20e%20forEach)_
-- [✅] 7.4: _[Reduce](fundamentos/7.0%20Métodos%20de%20Array/7.4%20Reduce)_
-- [✅] 7.5: _[Live Coding](fundamentos/7.0%20Métodos%20de%20Array/7.5%20Live%20Coding)_
-- [✅] 7.6: _[Project - Zoo Functions](fundamentos/7.0%20Métodos%20de%20Array/7.6%20Projeto%20-%20Zoo%20Functions)_ 🚀
+- [✅] 7.1: _[Map]()_
+- [✅] 7.2: _[Filter e sort]()_
+- [✅] 7.3: _[Find e forEach]()_
+- [✅] 7.4: _[Reduce]()_
+- [✅] 7.5: _[Live Coding]()_
+- [✅] 7.6: _[Project - Zoo Functions]()_ 🚀
 
 </details>
 
@@ -204,9 +204,10 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 
 <hr>
 
-**Project bonuses** 🛸
+
 <details>
-<summary>Projects 🛸</summary>
+<summary>Projects bonuses 🛸</summary>
+<br>
 <details>
 <summary>Fundamentals ☑️</summary>
 
