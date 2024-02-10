@@ -2,7 +2,7 @@
 
 This repository contains all learning activities developed by _[David L M Augusto](www.linkedin.com/in/david-lm-augusto)_ while student at [Trybe](https://www.betrybe.com/) 🚀
 
-⚠️**Note:** This repository is under construction and constant improvements!!
+⚠️**Note:** This repository is under construction and constant improvements!! The links are not working yet, I will make them available as I manage to implement content in them.
 
 _Ultima atualização 02/10/24_
 
@@ -16,7 +16,7 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 <details>
 <summary>Section 1: Unix, Shell & Git</summary>
 
-- [✅] 1-1: _[Unix & Shell](fundamentos/1.0%20%20Unix,%20Shell%20e%20Git/1.1%20Unix%20&%20Shell)_
+- [✅] 1-1: _[Unix & Shell](fundamentos/1.0%20%20Unix,%20Shell%20e%20Git/1.1%20Unix%20&%20Shell/introducao-ao-Unix-e-shell.txt)_
 - [✅] 1-2: _[Git - What is it and what is it for](fundamentos/1.0%20%20Unix,%20Shell%20e%20Git/1.2%20Git%20o%20que%20é%20e%20para%20que%20serve)_
 - [✅] 1-3: _[Understanding commands](fundamentos/1.0%20%20Unix,%20Shell%20e%20Git/1.3%20Git%20e%20GitHub%20-%20Entendendo%20comandos)_
 
@@ -36,7 +36,7 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 <details>
 <summary>Section 3: Introduction to JavaScript</summary>
 
-- [✅] 3.1: _[First steps in JavaScript](fundamentos/3.0%20Introdução%20a%20JavaScript/3.1%20Primeiros%20passos%20no%20JavaScript)_
+- [✅] 3.1: _[First steps in JavaScript]()_
 - [✅] 3.2: _[Array and repeating structure](fundamentos/3.0%20Introdução%20a%20JavaScript/3.2%20Array%20e%20estrutura%20de%20repetição)_
 - [✅] 3.3: _[Functions](fundamentos/3.0%20Introdução%20a%20JavaScript/3.3%20Funções)_
 - [✅] 3.4: _[Objects](fundamentos/3.0%20Introdução%20a%20JavaScript/3.4%20Objetos)_
@@ -101,7 +101,7 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 <details>
 <summary>Section 1: Introduction to Frontend and Asynchronous JavaScript</summary>
 
-- [✅] 1.1: _[Development environment]()_
+- [✅] 1.1: _[Development environment]()_ 
 - [✅] 1.2: _[Asynchronous JavaScript - Promises and fetch]()_
 - [✅] 1.3: _[Review - Exchange House]()_
 - [✅] 1.4: _[Async, Await and asynchronous tests]()_
@@ -195,24 +195,25 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 
 <br>
 
-- _[Lessons Learned](fundamentos/2.0%20Introdução%20a%20HTML%20e%20CSS/2.5%20Projeto%20-%20Lessons%20Learned)_ - Criação de uma página do zero utilizando HTML e CSS.
-- _[Supermarket Pirilampo](fundamentos/3.0%20Introdução%20a%20JavaScript/3.6%20Projeto%20-%20Supermercado%20Pirilampo)_ - Aplicando lógica de programação utilizando JavaScript.
-- _[Pixels Art](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.5%20Projeto%20-%20Pixels%20Art)_ - Colocando em prática tudo o que aprendi utilizando a manipulação do DOM.
-- _[Trybewarts](fundamentos/5.0%20HTML%20e%20CSS:%20Forms,%20Flexbox%20e%20Responsivo/5.6%20Projeto%20-%20TrybeWarts)_ - Implementando um formulário utilizando bibliotécas e CSS flexbox.
-- _[JavaScript Unitary tests](fundamentos/6.0%20Introdução%20à%20JavaScript%20ES6%20e%20Testes%20Unitários/6.4%20Projeto%20-%20JavaScript%20Testes%20Unitários)_ - Testando uma aplicação utilizando a bibliotéca _Jest_.
-- _[Zoo Functions](fundamentos/7.0%20Métodos%20de%20Array/7.6%20Projeto%20-%20Zoo%20Functions)_ - Utilização de Hofs, as funcionalidades do ES6 e TDD _Test Driven Development_.
+- _[Lessons Learned]()_ - Criação de uma página do zero utilizando HTML e CSS.
+- _[Supermarket Pirilampo]()_ - Aplicando lógica de programação utilizando JavaScript.
+- _[Pixels Art]()_ - Colocando em prática tudo o que aprendi utilizando a manipulação do DOM.
+- _[Trybewarts]()_ - Implementando um formulário utilizando bibliotécas e CSS flexbox.
+- _[JavaScript Unitary tests]()_ - Testando uma aplicação utilizando a bibliotéca _Jest_.
+- _[Zoo Functions]()_ - Utilização de Hofs, as funcionalidades do ES6 e TDD _Test Driven Development_.
 
 <hr>
+<summary>
 
 **Projetos Bônus** 🛸
 
 <details>
 <summary>Fundamentals ☑️</summary>
 
-- _[Lista de Tarefas](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
-- _[Meme Generator](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
-- _[Adivinhe a cor](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
-- _[Carta Misteriosa](fundamentos/4.0%20JavaScript:%20DOM%20Eventos%20e%20Web%20Storage/4.6%20Projeto%20Bônus)_
+- _[Lista de Tarefas]()_
+- _[Meme Generator]()_
+- _[Adivinhe a cor]()_
+- _[Carta Misteriosa]()_
 </details>
 
 <br>
@@ -223,3 +224,4 @@ This is my exercise portfolio, in which I keep a collection of the classes, proj
 </details>
 
 </details>
+</summary>
